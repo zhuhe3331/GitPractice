@@ -1,5 +1,8 @@
 class Main{
 	public static void main(String[] args){
-		System.out.println("aaaaaaaaaaaaaaaaaaaaaa");
+<<<<<<< HEAD
+		System.out.println("aaaaaaaaaaaaaaaaaaaaaa good morning !");
+=======
+>>>>>>> java
 	}
 }
